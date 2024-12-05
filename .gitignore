@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+*.log
+tailwind-runtime.css
+tailwind-build.css
